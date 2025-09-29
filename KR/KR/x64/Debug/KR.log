@@ -1,0 +1,3 @@
+﻿  KR.cpp
+C:\Users\Dell\Desktop\С++\KR\KR\KR.cpp(234,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  KR.vcxproj -> C:\Users\Dell\Desktop\С++\KR\x64\Debug\KR.exe
